@@ -27,6 +27,6 @@ public class GameMenu {
             }else{
                 System.out.println("Incorrect!");
             }
-        }
+        } userInputScanner.close();
     }
 }
